@@ -10,7 +10,7 @@ export const Projects: React.FC = () => {
       image: "/Captura de pantalla 2025-08-09 160407.png",
       technologies: ["React", "Node.js", "PostgreSQL", "Stripe"],
       liveUrl: "https://gimnasio-bekdoosan.vercel.app/",
-      githubUrl: "https://gimnasio-bekdoosan.vercel.app/"
+      githubUrl: "https://github.com/sergioironhacker/Gimnasio-Bekdoosan"
     },
     {
       id: 2,
@@ -27,8 +27,17 @@ export const Projects: React.FC = () => {
       description: "Sitio web portfolio responsive con modo oscuro/claro, animaciones suaves y optimizado para SEO y rendimiento.",
       image: "/seg.png",
       technologies: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
-      liveUrl: "https://rodriguezherrero.vercel.app/",
-      githubUrl: "https://rodriguezherrero.vercel.app/"
+      liveUrl: "https://www.segurosrodriguezherrero.es/",
+      githubUrl: "https://github.com/sergioironhacker/RodriguezHerrero"
+    },
+    {
+      id: 4,
+      title: "Portfolio Website",
+      description: "Sitio web portfolio responsive con modo oscuro/claro, animaciones suaves y optimizado para SEO y rendimiento.",
+      image: "/seg.png",
+      technologies: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
+      liveUrl: "https://www.segurosrodriguezherrero.es/",
+      githubUrl: "https://github.com/sergioironhacker/RodriguezHerrero"
     },
     
   ];
