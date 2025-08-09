@@ -7,7 +7,7 @@ export const Projects: React.FC = () => {
       id: 1,
       title: "E-commerce Platform",
       description: "Plataforma de comercio electrónico completa con React, Node.js y PostgreSQL. Incluye sistema de pagos, gestión de inventario y panel de administración.",
-      image: "/bek.png",
+      image: "/Captura de pantalla 2025-08-09 160407.png",
       technologies: ["React", "Node.js", "PostgreSQL", "Stripe"],
       liveUrl: "https://gimnasio-bekdoosan.vercel.app/",
       githubUrl: "https://gimnasio-bekdoosan.vercel.app/"
@@ -18,8 +18,8 @@ export const Projects: React.FC = () => {
       description: "Aplicación de gestión de tareas con funcionalidades colaborativas, notificaciones en tiempo real y sincronización multiplataforma.",
       image: "/Cris.png",
       technologies: ["Next.js", "Firebase", "Tailwind CSS", "TypeScript"],
-      liveUrl: "https://viajaconchristian.com/",
-      githubUrl: "https://viajaconchristian.com/"
+      liveUrl: "https://zavaratravel.com//",
+      githubUrl: "https://github.com/sergioironhacker/zavaratravel"
     },
     {
       id: 3,
