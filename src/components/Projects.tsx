@@ -5,8 +5,8 @@ export const Projects: React.FC = () => {
   const projects = [
     {
       id: 1,
-      title: "E-commerce Platform",
-      description: "Plataforma de comercio electrónico completa con React, Node.js y PostgreSQL. Incluye sistema de pagos, gestión de inventario y panel de administración.",
+      title: "Platform gimansio bekdoosan",
+      description: "Plataforma para mis amigos del gimnasio bekdoosan.",
       image: "/Captura de pantalla 2025-08-09 160407.png",
       technologies: ["React", "Node.js", "PostgreSQL", "Stripe"],
       liveUrl: "https://gimnasio-bekdoosan.vercel.app/",
@@ -14,8 +14,8 @@ export const Projects: React.FC = () => {
     },
     {
       id: 2,
-      title: "Task Management App",
-      description: "Aplicación de gestión de tareas con funcionalidades colaborativas, notificaciones en tiempo real y sincronización multiplataforma.",
+      title: "Agencia de viajes App",
+      description: "Aplicación de gestión de alojamientos y viajes para Christian garcias mi amigo y guia turistico",
       image: "/Cris.png",
       technologies: ["Next.js", "Firebase", "Tailwind CSS", "TypeScript"],
       liveUrl: "https://zavaratravel.com//",
@@ -23,8 +23,8 @@ export const Projects: React.FC = () => {
     },
     {
       id: 3,
-      title: "Portfolio Website",
-      description: "Sitio web portfolio responsive con modo oscuro/claro, animaciones suaves y optimizado para SEO y rendimiento.",
+      title: "Agencia de Seguros",
+      description: "Aplicación de gestión de polizas de seguros para mi amigo Alberto",
       image: "/seg.png",
       technologies: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
       liveUrl: "https://www.segurosrodriguezherrero.es/",
@@ -32,12 +32,12 @@ export const Projects: React.FC = () => {
     },
     {
       id: 4,
-      title: "Portfolio Website",
-      description: "Sitio web portfolio responsive con modo oscuro/claro, animaciones suaves y optimizado para SEO y rendimiento.",
-      image: "/seg.png",
+      title: "Generdaor de Cvs y cartas de presentacion",
+      description: "Generdaor de Cvs y cartas de presentacion",
+      image: "/Captura de pantalla 2025-08-09 161231.png",
       technologies: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
-      liveUrl: "https://www.segurosrodriguezherrero.es/",
-      githubUrl: "https://github.com/sergioironhacker/RodriguezHerrero"
+      liveUrl: "https://generador-de-cv-y-cartas-de-present.vercel.app/",
+      githubUrl: "https://github.com/sergioironhacker/Generador-de-Cv-y-cartas-de-presentacion"
     },
     
   ];
